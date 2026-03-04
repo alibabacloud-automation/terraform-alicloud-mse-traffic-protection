@@ -4,7 +4,7 @@ Alibaba Cloud MSE Comprehensive Traffic Protection Terraform Module
 
 English | [简体中文](https://github.com/alibabacloud-automation/terraform-alicloud-mse-traffic-protection/blob/main/README-CN.md)
 
-Terraform module which implements comprehensive traffic protection using Microservices Engine (MSE) on Alibaba Cloud. This module is designed to help users deploy and configure MSE-based traffic protection solutions for their applications, providing capabilities such as traffic governance, service discovery, and configuration management. For more information about the solution, please refer to [MSE 助力实现全方位流量防护](https://www.aliyun.com/solution/tech-solution/use-mse-to-implement-comprehensive-traffic-protection).
+Terraform module which implements comprehensive traffic protection using Microservices Engine (MSE) on Alibaba Cloud. This module is designed to help users deploy and configure MSE-based traffic protection solutions for their applications, providing capabilities such as traffic governance, service discovery, and configuration management. For more information about the solution, please refer to [Use MSE to implement comprehensive traffic protection](https://www.aliyun.com/solution/tech-solution/use-mse-to-implement-comprehensive-traffic-protection).
 
 ## Usage
 
